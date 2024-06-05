@@ -1,9 +1,11 @@
-ackage Login;
+package Login;
 
 public class MouseTest {
 
-    public void mouse() {
-        String name = "mouse dev2";
-        System.out.println(name);
+    public static void main(String[] args) {
+        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+        // to see how IntelliJ IDEA suggests fixing it.
+        System.out.println("Mouse Dev1");
+
     }
 }

@@ -7,4 +7,16 @@ public class FeatureOne {
         System.out.println("Feature One!");
 
     }
+
+    public class MouseTest {
+
+        public void mouse() {
+    <<<<<<< Updated upstream
+            String name = "mouse dev2";
+    =======
+            String name = "mouse dev1";
+    >>>>>>> Stashed changes
+            System.out.println(name);
+        }
+    }
 }
