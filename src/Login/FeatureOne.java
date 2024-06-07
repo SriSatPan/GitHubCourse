@@ -10,13 +10,6 @@ public class FeatureOne {
 
     public class MouseTest {
 
-        public void mouse() {
-    <<<<<<< Updated upstream
-            String name = "mouse dev2";
-    =======
-            String name = "mouse dev1";
-    >>>>>>> Stashed changes
-            System.out.println(name);
-        }
+
     }
 }
