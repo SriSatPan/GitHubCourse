@@ -6,8 +6,8 @@ public class ClassicPage {
 
         int K =10;
         int K1 = 20;
-        int p = K+K1;
-        System.out.println(p);
+        int div = K1/K;
+        System.out.println(div);
 
     }
 }
